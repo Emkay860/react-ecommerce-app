@@ -1,10 +1,11 @@
 import React, { Component } from "react";
+import Product from "./Product";
 
-export default class Navbar extends Component {
+export default class ProductList extends Component {
   render() {
     return (
       <div>
-        <h2>Hello from Navbar</h2>
+        <Product />
       </div>
     );
   }

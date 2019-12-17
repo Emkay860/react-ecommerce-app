@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 
-export default class Navbar extends Component {
+export default class Details extends Component {
   render() {
     return (
       <div>
-        <h2>Hello from Navbar</h2>
+        <h3>Hello from Details</h3>
       </div>
     );
   }
