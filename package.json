@@ -1,8 +1,12 @@
 {
   "name": "react-ecommerce-app",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "An ecommerce app created with the react.js framework and boostrap css.",
+  "keywords": [
+    "react",
+    "bootstrap",
+    "ecommerce"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "bootstrap": "4.4.1",
